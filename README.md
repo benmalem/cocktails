@@ -22,3 +22,6 @@ Future possible edits:
   - Specify which ingredients are missing 
   - Some flexibility with searching names/ingredients i.e. to prevent errors due to spelling or capitalisation etc. 
   - Making the tables pretty, possibly through including pictures of each cocktail in the data
+
+Some limitations 
+  - Only handles cocktails with 5 ingredients or less
