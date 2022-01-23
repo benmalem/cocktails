@@ -25,3 +25,7 @@ Future possible edits:
 
 Some limitations 
   - Only handles cocktails with 5 ingredients or less
+
+
+Source for picture used for 'social media preview': Photo by <a href="https://unsplash.com/@off_the_paige?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Paige Ledford</a> on <a href="https://unsplash.com/s/photos/old-fashioned?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
